@@ -1,0 +1,23 @@
+body {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: black;
+}
+
+#navbar {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: black;
+}
+
+#body {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: black;
+}
+
+#footer {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: black;
+}
